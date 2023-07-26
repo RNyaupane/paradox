@@ -16,6 +16,7 @@ cd <project>
 Install the dependencies:
 
 npm install
+
 Start the development server:
 
 npm run dev
