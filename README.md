@@ -12,7 +12,8 @@ Clone this repository to your local machine:
  git@github.com:iam-bkpl/apexhub-frontend.git
 Navigate to the project directory:
 
-cd <project>
+cd projectName
+
 Install the dependencies:
 
 npm install
